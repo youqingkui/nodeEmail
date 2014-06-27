@@ -1,0 +1,60 @@
+[Sat Jun 21 2014 16:20:15 GMT+0800 (CST)] /
+TypeError: Cannot call method 'trim' of undefined
+    at Object.app.use.meta [as handle] (/Users/youqingkui/learnNode/email_test/app.js:62:48)
+    at next (/Users/youqingkui/learnNode/node_modules/connect/lib/proto.js:149:15)
+    at Object.logger (/Users/youqingkui/learnNode/node_modules/morgan/index.js:108:5)
+    at next (/Users/youqingkui/learnNode/node_modules/connect/lib/proto.js:149:15)
+    at /Users/youqingkui/learnNode/node_modules/body-parser/lib/read.js:103:5
+    at IncomingMessage.onEnd (/Users/youqingkui/learnNode/node_modules/body-parser/node_modules/raw-body/index.js:135:7)
+    at IncomingMessage.g (events.js:180:16)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:919:16
+    at process._tickDomainCallback (node.js:463:13)
+[Sat Jun 21 2014 16:21:02 GMT+0800 (CST)] /
+TypeError: Cannot call method 'trim' of undefined
+    at Object.app.use.meta [as handle] (/Users/youqingkui/learnNode/email_test/app.js:62:48)
+    at next (/Users/youqingkui/learnNode/node_modules/connect/lib/proto.js:149:15)
+    at Object.logger (/Users/youqingkui/learnNode/node_modules/morgan/index.js:108:5)
+    at next (/Users/youqingkui/learnNode/node_modules/connect/lib/proto.js:149:15)
+    at /Users/youqingkui/learnNode/node_modules/body-parser/lib/read.js:103:5
+    at IncomingMessage.onEnd (/Users/youqingkui/learnNode/node_modules/body-parser/node_modules/raw-body/index.js:135:7)
+    at IncomingMessage.g (events.js:180:16)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:919:16
+    at process._tickDomainCallback (node.js:463:13)
+[Sat Jun 21 2014 16:22:52 GMT+0800 (CST)] /
+TypeError: Cannot call method 'trim' of undefined
+    at Object.app.use.meta [as handle] (/Users/youqingkui/learnNode/email_test/app.js:56:48)
+    at next (/Users/youqingkui/learnNode/node_modules/connect/lib/proto.js:149:15)
+    at Object.logger (/Users/youqingkui/learnNode/node_modules/morgan/index.js:108:5)
+    at next (/Users/youqingkui/learnNode/node_modules/connect/lib/proto.js:149:15)
+    at /Users/youqingkui/learnNode/node_modules/body-parser/lib/read.js:103:5
+    at IncomingMessage.onEnd (/Users/youqingkui/learnNode/node_modules/body-parser/node_modules/raw-body/index.js:135:7)
+    at IncomingMessage.g (events.js:180:16)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:919:16
+    at process._tickDomainCallback (node.js:463:13)
+[Sat Jun 21 2014 17:27:39 GMT+0800 (CST)] /
+TypeError: Cannot call method 'trim' of undefined
+    at Object.app.use.meta [as handle] (/Users/youqingkui/learnNode/email_test/app.js:60:48)
+    at next (/Users/youqingkui/learnNode/node_modules/connect/lib/proto.js:149:15)
+    at Object.logger (/Users/youqingkui/learnNode/node_modules/morgan/index.js:108:5)
+    at next (/Users/youqingkui/learnNode/node_modules/connect/lib/proto.js:149:15)
+    at /Users/youqingkui/learnNode/node_modules/body-parser/lib/read.js:103:5
+    at IncomingMessage.onEnd (/Users/youqingkui/learnNode/node_modules/body-parser/node_modules/raw-body/index.js:135:7)
+    at IncomingMessage.g (events.js:180:16)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:919:16
+    at process._tickDomainCallback (node.js:463:13)
+[Sun Jun 22 2014 22:44:52 GMT+0800 (CST)] /
+ReferenceError: content is not defined
+    at Object.app.use.meta [as handle] (/Users/youqingkui/learnNode/email_test/app3.js:60:13)
+    at next (/Users/youqingkui/learnNode/node_modules/connect/lib/proto.js:149:15)
+    at Object.logger (/Users/youqingkui/learnNode/node_modules/morgan/index.js:108:5)
+    at next (/Users/youqingkui/learnNode/node_modules/connect/lib/proto.js:149:15)
+    at /Users/youqingkui/learnNode/node_modules/body-parser/lib/read.js:103:5
+    at IncomingMessage.onEnd (/Users/youqingkui/learnNode/node_modules/body-parser/node_modules/raw-body/index.js:135:7)
+    at IncomingMessage.g (events.js:180:16)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:919:16
+    at process._tickDomainCallback (node.js:463:13)
